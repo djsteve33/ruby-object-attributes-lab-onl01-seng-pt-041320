@@ -17,3 +17,4 @@ class Dog
 end
 
 benji = Dog.new 
+benji.name = "Benji"
