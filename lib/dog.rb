@@ -3,6 +3,8 @@ class Dog
     @@this_dogs_name = dogs_name
   end 
   
+  def name
+    
   def breed=(dogs_breed)
     @@this_dogs_breed = dogs_breed
   end 
