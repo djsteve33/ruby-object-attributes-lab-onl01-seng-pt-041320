@@ -18,4 +18,8 @@ end
 
 benji = Dog.new 
 benji.name = "Benji"
-puts benji.name 
+puts benji.name
+
+yorkie = Dog.new
+yorkie.breed = "Yorkie"
+puts yorkie.breed 
