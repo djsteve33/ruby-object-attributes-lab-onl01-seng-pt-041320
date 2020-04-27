@@ -20,6 +20,6 @@ benji = Dog.new
 benji.name = "Benji"
 puts benji.name
 
-yorkie = Dog.new
-yorkie.breed = "Yorkie"
+snoopy = Dog.new
+snoopy.breed = ""
 puts yorkie.breed 
