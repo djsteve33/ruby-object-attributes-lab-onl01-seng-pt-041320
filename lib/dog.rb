@@ -16,4 +16,4 @@ class Dog
   end 
 end
 
-benji = Dog.new
+benji = Dog.new 
