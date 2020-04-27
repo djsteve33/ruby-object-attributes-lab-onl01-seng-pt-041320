@@ -18,3 +18,4 @@ end
 
 benji = Dog.new 
 benji.name = "Benji"
+puts benji.name 
