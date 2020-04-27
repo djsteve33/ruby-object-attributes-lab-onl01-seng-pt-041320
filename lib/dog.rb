@@ -21,5 +21,5 @@ benji.name = "Benji"
 puts benji.name
 
 snoopy = Dog.new
-snoopy.breed = ""
-puts yorkie.breed 
+snoopy.breed = "Beagle"
+puts snoopy.breed 
